@@ -3,7 +3,6 @@
 const secretNumber = 5 //Math.floor(Math.random() * 10) + 1;
 let history = {};
 let newName = ""
-
 let hello = prompt('Hello! Please enter your name');
 
 function play(){
